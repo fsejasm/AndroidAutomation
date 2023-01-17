@@ -37,4 +37,4 @@ First Sample Script for Automation Modulo 2
 9. - Run and verify the scripts are correctly
 
 ## Final Result
-![Automation Demo](https://github.com/fsejasm/AndroidAutomation/blob/main/image.jpg/image.jpg?raw=true)
+![Automation Demo](https://github.com/fsejasm/AndroidAutomation/blob/main/image.jpg?raw=true)
